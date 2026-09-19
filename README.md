@@ -2,7 +2,8 @@
 OOP Project for QUT IFQ584
 Coursework for QUT unit IFQ584 (Object-Oriented Design and Development): a C# / .NET console implementation of Numerical Tic Tac Toe.
 
-    Assignment 1 - Complete an object-oriented programming exercise based on a simple design in order to reinforce my object-oriented programming knowledge so far and prepare for the larger design-and-implementation project. 
+    Assignment 1 - Complete an object-oriented programming exercise based on a simple design in order to reinforce my
+    object-oriented programming knowledge so far and prepare for the larger design-and-implementation project. 
 
 ## The game task
 
