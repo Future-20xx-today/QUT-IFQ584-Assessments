@@ -1,0 +1,18 @@
+C:\Users\whywa\source\repos\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whywa\source\repos\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.AssemblyInfoInputs.cache
+C:\Users\whywa\source\repos\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.AssemblyInfo.cs
+C:\Users\whywa\source\repos\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.csproj.CoreCompileInputs.cache
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\bin\Debug\net10.0\TicTacToe_Game.exe
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\bin\Debug\net10.0\TicTacToe_Game.deps.json
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\bin\Debug\net10.0\TicTacToe_Game.runtimeconfig.json
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\bin\Debug\net10.0\TicTacToe_Game.dll
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\bin\Debug\net10.0\TicTacToe_Game.pdb
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.AssemblyInfoInputs.cache
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.AssemblyInfo.cs
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.csproj.CoreCompileInputs.cache
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.dll
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\refint\TicTacToe_Game.dll
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.pdb
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\TicTacToe_Game.genruntimeconfig.cache
+C:\Users\markd\OneDrive\Documents\Visual Studio 18\TicTacToe_Game\obj\Debug\net10.0\ref\TicTacToe_Game.dll
